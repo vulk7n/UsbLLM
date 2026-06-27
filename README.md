@@ -179,7 +179,7 @@ This project bundles [llama.cpp](https://github.com/ggerganov/llama.cpp), which 
 
 ```
 UsbLLM — llama.cpp based LLM launcher
-Copyright (c) 2024
+Copyright (c) 2026
 
 Licensed under the MIT License.
 ```
